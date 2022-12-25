@@ -22,7 +22,7 @@
 // This package trades efficiency for randomness quality. It currently uses
 // [crypto/rand.Reader] as its source or randomness, which on common platforms
 // requires a system call.
-package secure
+package strong
 
 import (
 	cryptorand "crypto/rand"

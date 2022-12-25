@@ -7,6 +7,8 @@ import (
 	"fmt"
 	"math/rand"
 	"time"
+
+	"github.com/giucal/strong"
 )
 
 // Create a source.
